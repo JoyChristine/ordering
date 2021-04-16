@@ -6,8 +6,8 @@ git clone https://github.com/JoyChristine/ordering.git
 cd ordering
 npm install
 npm start
-
-Open [http://localhost:8080](http://localhost:8080) to test the server in the browser
+```
+ Then Open [http://localhost:8080](http://localhost:8080) to test the server in the browser
 You can also use Postman like I did.
 
 
