@@ -10,6 +10,7 @@ npm start
  Then Open [http://localhost:8080](http://localhost:8080) to test the server in the browser.
 You can also use Postman if you like.
 
+For the SMS APIs, use [`Africanstalking SMS`](https://africastalking.com/sms)
 
 
 
