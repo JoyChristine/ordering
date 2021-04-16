@@ -7,8 +7,8 @@ cd ordering
 npm install
 npm start
 ```
- Then Open [http://localhost:8080](http://localhost:8080) to test the server in the browser
-You can also use Postman like I did.
+ Then Open [http://localhost:8080](http://localhost:8080) to test the server in the browser.
+You can also use Postman if you like.
 
 
 
